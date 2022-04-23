@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HasnainHaider68
-- 👀 I’m interested in 
+- 👀 I’m interested in WEb Portal Developemnt. 
 - 💞️ I’m looking to collaborate on .NET, SharePoint, PowerPlatform Development.
 - 📫 How to reach me ...
 
